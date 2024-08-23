@@ -1,18 +1,11 @@
-<div id="header" align="center">
-  <h1>Привет! Меня зовут Иван</h1>
+<div id="header" align="left">
+  <h1>Привет! Меня зовут Иван. 30 лет</h1>
   <h3>Я backend разработчик из России (Благовещенск)</h3>
+  <h4>Интересуюсь web-разработкой и соответствующими технологиями</h4>
+  <h4>Углубленно изучаю Python и его web-фреймворки. Закрепляю на практике. Вникаю в принципы работы сетевых протоколов.</h4>
 </div>
 
-<div id="socials" align="center">
-  <a href="mailto:mr.homyuk@mail.ru">
-    <img src="https://pngicon.ru/file/uploads/znachok-jelektronnoj-pochty.png" width="30" height="30" alt="Email"/>
-  </a><span>⠀⁣⁣⁣</span>
-  <a href="https://t.me/ivankhomyuk">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="30" height="30" alt="Telegram"/>
-  </a>
-</div>
-
-### Навыки
+### Мои навыки:
 <div id="hardskills" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="HTML"/>
@@ -31,8 +24,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" title="Nginx"/>
 </div>
 
-### Статистика
-
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanhom&theme=default" alt=""/>
+<div id="socials" align="left">
+  <h4>Написать мне на почту: 
+    <a href="mailto:mr.homyuk@mail.ru">
+      <img src="https://pngicon.ru/file/uploads/znachok-jelektronnoj-pochty.png" width="30" height="30" valign="middle" alt="Email"/>
+    </a>
+  </h4>
+  <h4>Написать мне в Телеграм: <a href="https://t.me/ivankhomyuk">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="30" height="30" valign="middle" alt="Telegram"/>
+    </a>
+  </h4>
 </div>
