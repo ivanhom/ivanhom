@@ -1,6 +1,15 @@
-## Hi there 👋
+<div id="header" align="center">
+  <h1>Привет! Меня зовут Иван</h1>
+  <h3>Я backend разработчик из России (Благовещенск)</h3>
+</div>
 
-<!--
+<div id="socials" align="center">
+  <a href="telegram-url">
+    <img src="http://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
+
 **ivanhom/ivanhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
