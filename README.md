@@ -4,8 +4,11 @@
 </div>
 
 <div id="socials" align="center">
-  <a href="telegram-url">
+  <a href="https://t.me/ivankhomyuk">
     <img src="http://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:mr.homyuk@mail.ru">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mail.Ru_Logo_2018.svg/320px-Mail.Ru_Logo_2018.svg.png" width="114" height="28" alt="mr.homyuk@mail.ru"/>
   </a>
 </div>
 
@@ -15,7 +18,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 В данный момент изучаю
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
