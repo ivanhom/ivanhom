@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <h1>Привет! Меня зовут Иван. 30 лет</h1>
+  <h2>Привет! Меня зовут Иван. 30 лет</h2>
   <h3>Я backend разработчик из России (Благовещенск)</h3>
   <h4>Интересуюсь web-разработкой и соответствующими технологиями</h4>
   <h4>Углубленно изучаю Python и его web-фреймворки. Закрепляю на практике. Вникаю в принципы работы сетевых протоколов</h4>
@@ -21,7 +21,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40" title="Git"/></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40" title="GitHub"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40" title="Docker"/></a>
-  <a href="https://nginx.org/ru/" target="blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" title="Nginx"/></a>
+  <a href="https://nginx.org/ru/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" title="Nginx"/></a>
 </div>
 
 <div id="socials" align="left">
