@@ -25,13 +25,7 @@
 </div>
 
 <div id="socials" align="left">
-  <h4>Написать мне на почту: 
-    <a href="mailto:mr.homyuk@mail.ru">
-      <img src="https://pngicon.ru/file/uploads/znachok-jelektronnoj-pochty.png" width="30" height="30" valign="middle" alt="Email"/>
-    </a>
-  </h4>
-  <h4>Написать мне в Телеграм: <a href="https://t.me/ivankhomyuk">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="30" height="30" valign="middle" alt="Telegram"/>
-    </a>
-  </h4>
+  <br>
+  <a href="mailto:mr.homyuk@mail.ru"><img src="https://pngicon.ru/file/uploads/znachok-jelektronnoj-pochty.png" width="30" height="30" alt="Email"/></a>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="30" height="30" alt="Telegram"/>
 </div>
