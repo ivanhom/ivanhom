@@ -24,8 +24,8 @@
   <a href="https://nginx.org/ru/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" title="Nginx"/></a>
 </div>
 
+### Контакты:
 <div id="socials" align="left">
-  <br>
   <a href="mailto:mr.homyuk@mail.ru"><img src="https://pngicon.ru/file/uploads/znachok-jelektronnoj-pochty.png" width="30" height="30" alt="Email"/></a>
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="30" height="30" alt="Telegram"/>
+  <a href="https://t.me/ivankhomyuk"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="30" height="30" alt="Telegram"/></a>
 </div>
