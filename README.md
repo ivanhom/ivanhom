@@ -27,7 +27,7 @@
 ### Закреплённые проекты
   - [API сервис для сбора пожертвований на различные целевые проекты, реализованный на FastAPI](https://github.com/ivanhom/QRkot_spreadsheets)
   - [Сервис для укорачивания URL ссылок. реализованный на Flask](https://github.com/ivanhom/yacut)
-  - [Сервис для просмотра и публикации кулинарных рецептов](https://github.com/ivanhom/foodgram-project-react)
+  - [Сервис для просмотра и публикации кулинарных рецептов, реализованный на Django Rest Framework](https://github.com/ivanhom/foodgram-project-react)
   - [API сервис для сборки отзывов и оценок на книги, фильмы, музыкальные альбомы по категориям, реализованный на Django Rest Framework](https://github.com/ivanhom/api_yamdb) Коммандный проект, в котором я выступил в качестве лида
   - [Сервис для публикации блогов и комментариев к ним, реализованный на Django](https://github.com/ivanhom/django_sprint4)
   - [Социальная сеть для обмена фотографиями любимых питомцев, реализованная на Django Rest Framework](https://github.com/ivanhom/kittygram_final)
