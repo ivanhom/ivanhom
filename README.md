@@ -25,7 +25,7 @@
 </div>
 
 ### Закреплённые проекты
-  - [Telegram бот для получения информации об остатках товара на Wildberries](https://t.me/wb_bears_bot)
+  - [Telegram бот для получения информации об остатках товара на Wildberries](https://github.com/ivanhom/wb_bears))
   - [API сервис для сбора пожертвований на различные целевые проекты, реализованный на FastAPI](https://github.com/ivanhom/QRkot_spreadsheets)
   - [Сервис для укорачивания URL ссылок. реализованный на Flask](https://github.com/ivanhom/yacut)
   - [Сервис для просмотра и публикации кулинарных рецептов, реализованный на Django Rest Framework](https://github.com/ivanhom/foodgram-project-react)
